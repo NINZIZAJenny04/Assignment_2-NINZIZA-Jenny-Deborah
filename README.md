@@ -10,3 +10,5 @@ I created a temporary PDB and verified that it existed. After that, I deleted th
 ## Task 3: Oracle Enterprise Manager (OEM)
 I accessed Oracle Enterprise Manager (OEM) and checked my Oracle environment using the dashboard. I verified that my Oracle environment and PDB information were displayed.
 [Screenshot](https://github.com/NINZIZAJenny04/Assignment_2-NINZIZA-Jenny-Deborah/blob/b123ff038a061429466e402a2c56e5d7a57f5d3b/Screenshot%202026-09-22%20165446.png)
+## Task 4:
+I created a public GitHub repository for my assignment. I organized my screenshots into the required folders and created a README.md file. In the README, I explained the tasks I completed, the Oracle environment I used, any challenges I faced and how I solved them
