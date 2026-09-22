@@ -15,7 +15,6 @@ I accessed Oracle Enterprise Manager (OEM) and checked my Oracle environment usi
 ## Task 4:
 I created a public GitHub repository for my assignment. 
 ## Oracle Environment
-## Oracle Environment
 I used **Oracle Database** to create and manage my Pluggable Databases. I used **SQL*Plus** to run Oracle commands and **Oracle Enterprise Manager (OEM)** to monitor and view my Oracle environment.
 ## Challenges encountered
 I faced some challenges while working with Oracle, especially when connecting to the database and creating the PDB. I also encountered errors when trying to create or manage users. I solved these problems by checking my Oracle connection, verifying the PDB status, and carefully correcting the commands I entered.
