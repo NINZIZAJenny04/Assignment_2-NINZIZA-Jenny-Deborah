@@ -4,6 +4,7 @@
 I created a new Pluggable Database (PDB) in Oracle. I also created a user inside the PDB using the required naming format. I then opened the PDB and verified that it was working correctly. I took screenshots as evidence.
 [screenshot](https://github.com/NINZIZAJenny04/Assignment_2-NINZIZA-Jenny-Deborah/blob/656b935e0e1ce035e37f87b75e463c9824e0e9b4/1.jpeg)
 [screenshot](https://github.com/NINZIZAJenny04/Oracle_pdb_ass_ll_NINZIZA/blob/fb79b7b262005f4bd120c04db172ba0dfe2416ff/2.jpeg)
+[screenshot](https://github.com/NINZIZAJenny04/Oracle_pdb_ass_ll_NINZIZA/blob/67b7745aca0a79af3e0ecfcabf2f7d737202b2a0/4.jpeg)
 ## TASK 2: Create PDB
 I created a temporary PDB and verified that it existed. After that, I deleted the temporary PDB completely and confirmed that it was no longer available in sql developer. I took screenshots showing the creation and deletion of the PDB.
 [Screenshot](https://github.com/NINZIZAJenny04/Assignment_2-NINZIZA-Jenny-Deborah/blob/1cb90451c2ad032c72f2640068fef3965e63fb63/4.jpeg)
