@@ -8,4 +8,5 @@ I created a temporary PDB and verified that it existed. After that, I deleted th
 [Screenshot](https://github.com/NINZIZAJenny04/Assignment_2-NINZIZA-Jenny-Deborah/blob/1cb90451c2ad032c72f2640068fef3965e63fb63/4.jpeg)
 ## Delete PDB
 ## Task 3: Oracle Enterprise Manager (OEM)
+I accessed Oracle Enterprise Manager (OEM) and checked my Oracle environment using the dashboard. I verified that my Oracle environment and PDB information were displayed.
 [Screenshot](https://github.com/NINZIZAJenny04/Assignment_2-NINZIZA-Jenny-Deborah/blob/b123ff038a061429466e402a2c56e5d7a57f5d3b/Screenshot%202026-09-22%20165446.png)
